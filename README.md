@@ -25,7 +25,7 @@ Bash
 pip install llama-cpp-python==0.1.78 numpy==1.23.4 huggingface_hub
 ```
 
-Enable GPU Acceleration (if applicable):
+### Enable GPU Acceleration (if applicable): ###
 
 For CUDA-enabled GPUs, set the ```CMAKE_ARGS``` environment variable before installation:
 
